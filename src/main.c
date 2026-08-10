@@ -25,6 +25,9 @@ vec2d snake[MAX_SNAKE_SIZE];
 
 int gameOver = 0;
 
+int directionX = 1;
+int directionY = 0;
+
 
 int manhattanDistance(
     const int x1,
@@ -167,52 +170,25 @@ void snakeMove(const int xmove, const int ymove) {
 }
 
 
-void snakeThink(void) {
+void snakeThink(void)
+{
+    snakeMove(directionX, directionY);
+}
 
-    const vec2d destinations[4] = {
-        { snake[0].x + 1, snake[0].y },
-        { snake[0].x - 1, snake[0].y },
-        { snake[0].x, snake[0].y + 1 },
-        { snake[0].x, snake[0].y - 1 }
-    };
+EMSCRIPTEN_KEEPALIVE
+void setDirection(const int x, const int y)
+{
+    /*
+     * Don't allow the snake to reverse directly.
+     */
 
-    vec2d bestMove;
-
-    int bestDistance = -1;
-
-    for (int i = 0; i < 4; i++) {
-
-        int dist = manhattanDistance(
-            destinations[i].x,
-            destinations[i].y,
-            foodPos.x,
-            foodPos.y
-        );
-
-        if (dist < bestDistance ||
-            bestDistance == -1) {
-
-            if (!checkCollision(
-                    destinations[i].x,
-                    destinations[i].y)) {
-
-                bestDistance = dist;
-                bestMove = destinations[i];
-            }
-        }
+    if (x == -directionX &&
+        y == -directionY) {
+        return;
     }
 
-    if (bestDistance != -1) {
-
-        snakeMove(
-            bestMove.x - snake[0].x,
-            bestMove.y - snake[0].y
-        );
-
-    } else {
-
-        gameOver = 1;
-    }
+    directionX = x;
+    directionY = y;
 }
 
 
@@ -249,6 +225,9 @@ void resetGame(void) {
 
     snakeSize = 0;
     gameOver = 0;
+
+    directionX = 1;
+    directionY = 0;
 
     srand((unsigned int)time(NULL));
 
