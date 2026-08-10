@@ -138,7 +138,44 @@ function drawGame()
 
 </script>
 
-<script src="snake.js"></script>
+<script src="snake.js">
+    document.addEventListener("keydown", function(event) {
+
+    let x = 0;
+    let y = 0;
+
+    switch (event.key) {
+
+        case "ArrowUp":
+            y = -1;
+            break;
+
+        case "ArrowDown":
+            y = 1;
+            break;
+
+        case "ArrowLeft":
+            x = -1;
+            break;
+
+        case "ArrowRight":
+            x = 1;
+            break;
+
+        default:
+            return;
+    }
+
+    event.preventDefault();
+
+    Module.ccall(
+        "setDirection",
+        null,
+        ["number", "number"],
+        [x, y]
+    );
+});
+</script>
 
 </body>
 </html>
