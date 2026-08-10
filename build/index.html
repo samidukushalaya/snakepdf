@@ -2,37 +2,40 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>C Snake</title>
+    <title>C Snake WASM</title>
 
     <style>
         body {
             background: #111;
             color: white;
-            font-family: monospace;
+            font-family: sans-serif;
             text-align: center;
         }
 
-        #game {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 10px;
+        canvas {
+            border: 3px solid white;
             background: black;
-            font-size: 24px;
-            line-height: 24px;
-            white-space: pre;
+            image-rendering: pixelated;
+        }
+
+        #status {
+            margin-top: 10px;
+            font-size: 20px;
         }
     </style>
 </head>
 
 <body>
 
-<h1>C Snake</h1>
+<h1>C Brain Snake</h1>
 
-<div id="game"></div>
+<canvas id="game"></canvas>
 
-<p>Snake size: <span id="score">0</span></p>
+<div id="status">
+    Snake size: <span id="score">0</span>
+</div>
 
-<p id="status"></p>
+<button id="restart">Restart</button>
 
 <script>
 
@@ -40,7 +43,7 @@ var Module = {
 
     onRuntimeInitialized: function() {
 
-        console.log("WASM loaded!");
+        console.log("WASM loaded");
 
         Module.ccall(
             "initGame",
@@ -49,16 +52,7 @@ var Module = {
             []
         );
 
-        console.log(
-            "Snake size:",
-            Module.ccall(
-                "getSnakeSize",
-                "number",
-                [],
-                []
-            )
-        );
-
+        setupCanvas();
         drawGame();
 
         setInterval(function() {
@@ -72,9 +66,36 @@ var Module = {
 
             drawGame();
 
-        }, 1000);
+        }, 400);
     }
 };
+
+
+const canvas = document.getElementById("game");
+const ctx = canvas.getContext("2d");
+
+let cellSize = 30;
+
+
+function setupCanvas()
+{
+    const width = Module.ccall(
+        "getWidth",
+        "number",
+        [],
+        []
+    );
+
+    const height = Module.ccall(
+        "getHeight",
+        "number",
+        [],
+        []
+    );
+
+    canvas.width = width * cellSize;
+    canvas.height = height * cellSize;
+}
 
 
 function drawGame()
@@ -93,7 +114,20 @@ function drawGame()
         []
     );
 
-    let output = "";
+
+    /* Clear canvas */
+
+    ctx.fillStyle = "black";
+
+    ctx.fillRect(
+        0,
+        0,
+        canvas.width,
+        canvas.height
+    );
+
+
+    /* Draw cells */
 
     for (let y = 0; y < height; y++) {
 
@@ -106,13 +140,65 @@ function drawGame()
                 [x, y]
             );
 
-            output += String.fromCharCode(cell);
-        }
 
-        output += "\n";
+            const px = x * cellSize;
+            const py = y * cellSize;
+
+
+            if (cell === 35) {
+                // #
+                ctx.fillStyle = "#444";
+
+                ctx.fillRect(
+                    px,
+                    py,
+                    cellSize,
+                    cellSize
+                );
+            }
+
+            else if (cell === 79) {
+               ctx.font = "26px sans-serif";
+               ctx.textAlign = "center";
+               ctx.textBaseline = "middle";
+
+               ctx.fillText(
+                   "🧠",
+                 px + cellSize / 2,
+                 py + cellSize / 2
+    );
+}
+
+
+            else if (cell === 111) {
+              ctx.font = "24px sans-serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+
+    ctx.fillText(
+        "🧠",
+        px + cellSize / 2,
+        py + cellSize / 2
+                );
+            }
+
+
+            else if (cell === 64) {
+            ctx.font = "24px sans-serif";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+
+    ctx.fillText(
+        "🍎",
+        px + cellSize / 2,
+        py + cellSize / 2
+    );
+            }
+        }
     }
 
-    document.getElementById("game").textContent = output;
+
+    /* Score */
 
     const size = Module.ccall(
         "getSnakeSize",
@@ -123,6 +209,9 @@ function drawGame()
 
     document.getElementById("score").textContent = size;
 
+
+    /* Game over */
+
     const gameOver = Module.ccall(
         "isGameOver",
         "number",
@@ -131,18 +220,20 @@ function drawGame()
     );
 
     if (gameOver) {
+
         document.getElementById("status").textContent =
-            "GAME OVER";
+            "GAME OVER — Snake size: " + size;
     }
 }
 
-</script>
 
-<script src="snake.js">
-    document.addEventListener("keydown", function(event) {
+
+
+document.addEventListener("keydown", function(event) {
 
     let x = 0;
     let y = 0;
+
 
     switch (event.key) {
 
@@ -166,7 +257,9 @@ function drawGame()
             return;
     }
 
+
     event.preventDefault();
+
 
     Module.ccall(
         "setDirection",
@@ -174,8 +267,29 @@ function drawGame()
         ["number", "number"],
         [x, y]
     );
+
 });
+
+document.getElementById("restart").addEventListener("click", function() {
+
+    Module.ccall(
+        "initGame",
+        null,
+        [],
+        []
+    );
+
+    // Reset the status text
+    document.getElementById("status").innerHTML =
+        'Snake size: <span id="score">0</span>';
+
+    // Draw the new game
+    drawGame();
+});
+
 </script>
+
+<script src="snake.js"></script>
 
 </body>
 </html>

@@ -53,4 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
-build/sanke
+build/
+pdf/
+src/
+web/
+

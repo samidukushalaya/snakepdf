@@ -1548,6 +1548,7 @@ function checkIncomingModuleAPI() {
 }
 
 // Imports from the Wasm binary.
+var _setDirection = Module['_setDirection'] = makeInvalidEarlyAccess('_setDirection');
 var _initGame = Module['_initGame'] = makeInvalidEarlyAccess('_initGame');
 var _updateGame = Module['_updateGame'] = makeInvalidEarlyAccess('_updateGame');
 var _getCell = Module['_getCell'] = makeInvalidEarlyAccess('_getCell');
@@ -1568,6 +1569,7 @@ var __indirect_function_table = makeInvalidEarlyAccess('__indirect_function_tabl
 var wasmMemory = makeInvalidEarlyAccess('wasmMemory');
 
 function assignWasmExports(wasmExports) {
+  assert(typeof wasmExports['setDirection'] != 'undefined', 'missing Wasm export: setDirection');
   assert(typeof wasmExports['initGame'] != 'undefined', 'missing Wasm export: initGame');
   assert(typeof wasmExports['updateGame'] != 'undefined', 'missing Wasm export: updateGame');
   assert(typeof wasmExports['getCell'] != 'undefined', 'missing Wasm export: getCell');
@@ -1585,6 +1587,7 @@ function assignWasmExports(wasmExports) {
   assert(typeof wasmExports['emscripten_stack_get_current'] != 'undefined', 'missing Wasm export: emscripten_stack_get_current');
   assert(typeof wasmExports['memory'] != 'undefined', 'missing Wasm export: memory');
   assert(typeof wasmExports['__indirect_function_table'] != 'undefined', 'missing Wasm export: __indirect_function_table');
+  _setDirection = Module['_setDirection'] = createExportWrapper('setDirection', wasmExports['setDirection'], 2);
   _initGame = Module['_initGame'] = createExportWrapper('initGame', wasmExports['initGame'], 0);
   _updateGame = Module['_updateGame'] = createExportWrapper('updateGame', wasmExports['updateGame'], 0);
   _getCell = Module['_getCell'] = createExportWrapper('getCell', wasmExports['getCell'], 2);
