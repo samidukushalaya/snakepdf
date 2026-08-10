@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>C Snake</title>
+
+    <style>
+        body {
+            background: #111;
+            color: white;
+            font-family: monospace;
+            text-align: center;
+        }
+
+        #game {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px;
+            background: black;
+            font-size: 24px;
+            line-height: 24px;
+            white-space: pre;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>C Snake</h1>
+
+<div id="game"></div>
+
+<p>Snake size: <span id="score">0</span></p>
+
+<p id="status"></p>
+
+<script>
+
+var Module = {
+
+    onRuntimeInitialized: function() {
+
+        console.log("WASM loaded!");
+
+        Module.ccall(
+            "initGame",
+            null,
+            [],
+            []
+        );
+
+        console.log(
+            "Snake size:",
+            Module.ccall(
+                "getSnakeSize",
+                "number",
+                [],
+                []
+            )
+        );
+
+        drawGame();
+
+        setInterval(function() {
+
+            Module.ccall(
+                "updateGame",
+                null,
+                [],
+                []
+            );
+
+            drawGame();
+
+        }, 1000);
+    }
+};
+
+
+function drawGame()
+{
+    const width = Module.ccall(
+        "getWidth",
+        "number",
+        [],
+        []
+    );
+
+    const height = Module.ccall(
+        "getHeight",
+        "number",
+        [],
+        []
+    );
+
+    let output = "";
+
+    for (let y = 0; y < height; y++) {
+
+        for (let x = 0; x < width; x++) {
+
+            const cell = Module.ccall(
+                "getCell",
+                "number",
+                ["number", "number"],
+                [x, y]
+            );
+
+            output += String.fromCharCode(cell);
+        }
+
+        output += "\n";
+    }
+
+    document.getElementById("game").textContent = output;
+
+    const size = Module.ccall(
+        "getSnakeSize",
+        "number",
+        [],
+        []
+    );
+
+    document.getElementById("score").textContent = size;
+
+    const gameOver = Module.ccall(
+        "isGameOver",
+        "number",
+        [],
+        []
+    );
+
+    if (gameOver) {
+        document.getElementById("status").textContent =
+            "GAME OVER";
+    }
+}
+
+</script>
+
+<script src="snake.js"></script>
+
+</body>
+</html>
