@@ -2,6 +2,10 @@
 
 A simple Snake game that runs inside a PDF.
 
+Demo
+
+[▶️ Try Snake PDF](./snake.pdf)
+
 ## Credit
 
 Based on **Thomas Rinsma's pdftris**.
