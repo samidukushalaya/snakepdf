@@ -4,7 +4,7 @@ A simple Snake game that runs inside a PDF.
 
 
 
-[Try the game](https://samidukushalaya.github.io/snakepdf/index.html)
+[Try the game](https://samidukushalaya.github.io/snakepdf/snake.pdf)
 
 ## Credit
 
