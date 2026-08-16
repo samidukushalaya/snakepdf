@@ -2,9 +2,9 @@
 
 A simple Snake game that runs inside a PDF.
 
-Demo
 
-[▶️ Try Snake PDF](./snake.pdf)
+
+[Try the game](https://samidu.github.io/snakepdf/snake.pdf)
 
 ## Credit
 
