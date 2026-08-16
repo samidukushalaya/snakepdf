@@ -1,0 +1,5838 @@
+
+%PDF-1.6
+
+% Root
+1 0 obj
+<<
+  /AcroForm <<
+    /Fields [ 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R 276 0 R 277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 287 0 R 288 0 R 289 0 R 290 0 R 291 0 R 292 0 R ]
+  >>
+  /Pages 2 0 R
+  /OpenAction 17 0 R
+  /Type /Catalog
+>>
+endobj
+
+2 0 obj
+<<
+  /Count 1
+  /Kids [
+    16 0 R
+  ]
+  /Type /Pages
+>>
+
+%% Annots Page 1 (also used as overall fields list)
+21 0 obj
+[
+  50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 107 0 R 108 0 R 109 0 R 110 0 R 111 0 R 112 0 R 113 0 R 114 0 R 115 0 R 116 0 R 117 0 R 118 0 R 119 0 R 120 0 R 121 0 R 122 0 R 123 0 R 124 0 R 125 0 R 126 0 R 127 0 R 128 0 R 129 0 R 130 0 R 131 0 R 132 0 R 133 0 R 134 0 R 135 0 R 136 0 R 137 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 144 0 R 145 0 R 146 0 R 147 0 R 148 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 185 0 R 186 0 R 187 0 R 188 0 R 189 0 R 190 0 R 191 0 R 192 0 R 193 0 R 194 0 R 195 0 R 196 0 R 197 0 R 198 0 R 199 0 R 200 0 R 201 0 R 202 0 R 203 0 R 204 0 R 205 0 R 206 0 R 207 0 R 208 0 R 209 0 R 210 0 R 211 0 R 212 0 R 213 0 R 214 0 R 215 0 R 216 0 R 217 0 R 218 0 R 219 0 R 220 0 R 221 0 R 222 0 R 223 0 R 224 0 R 225 0 R 226 0 R 227 0 R 228 0 R 229 0 R 230 0 R 231 0 R 232 0 R 233 0 R 234 0 R 235 0 R 236 0 R 237 0 R 238 0 R 239 0 R 240 0 R 241 0 R 242 0 R 243 0 R 244 0 R 245 0 R 246 0 R 247 0 R 248 0 R 249 0 R 250 0 R 251 0 R 252 0 R 253 0 R 254 0 R 255 0 R 256 0 R 257 0 R 258 0 R 259 0 R 260 0 R 261 0 R 262 0 R 263 0 R 264 0 R 265 0 R 266 0 R 267 0 R 268 0 R 269 0 R 270 0 R 271 0 R 272 0 R 273 0 R 274 0 R 275 0 R 276 0 R 277 0 R 278 0 R 279 0 R 280 0 R 281 0 R 282 0 R 283 0 R 284 0 R 285 0 R 286 0 R 287 0 R 288 0 R 289 0 R 290 0 R 291 0 R 292 0 R
+]
+endobj
+
+
+50 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.8
+    ]
+    /BC [
+      0 0 0
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 380 480 680
+  ]
+  /Subtype /Widget
+  /T (playing_field)
+  /Type /Annot
+>>
+endobj
+
+51 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 380 200 400
+  ]
+  /Subtype /Widget
+  /T (P_0_0)
+  /Type /Annot
+>>
+endobj
+
+52 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 400 200 420
+  ]
+  /Subtype /Widget
+  /T (P_0_1)
+  /Type /Annot
+>>
+endobj
+
+53 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 420 200 440
+  ]
+  /Subtype /Widget
+  /T (P_0_2)
+  /Type /Annot
+>>
+endobj
+
+54 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 440 200 460
+  ]
+  /Subtype /Widget
+  /T (P_0_3)
+  /Type /Annot
+>>
+endobj
+
+55 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 460 200 480
+  ]
+  /Subtype /Widget
+  /T (P_0_4)
+  /Type /Annot
+>>
+endobj
+
+56 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 480 200 500
+  ]
+  /Subtype /Widget
+  /T (P_0_5)
+  /Type /Annot
+>>
+endobj
+
+57 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 500 200 520
+  ]
+  /Subtype /Widget
+  /T (P_0_6)
+  /Type /Annot
+>>
+endobj
+
+58 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 520 200 540
+  ]
+  /Subtype /Widget
+  /T (P_0_7)
+  /Type /Annot
+>>
+endobj
+
+59 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 540 200 560
+  ]
+  /Subtype /Widget
+  /T (P_0_8)
+  /Type /Annot
+>>
+endobj
+
+60 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 560 200 580
+  ]
+  /Subtype /Widget
+  /T (P_0_9)
+  /Type /Annot
+>>
+endobj
+
+61 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 580 200 600
+  ]
+  /Subtype /Widget
+  /T (P_0_10)
+  /Type /Annot
+>>
+endobj
+
+62 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 600 200 620
+  ]
+  /Subtype /Widget
+  /T (P_0_11)
+  /Type /Annot
+>>
+endobj
+
+63 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 620 200 640
+  ]
+  /Subtype /Widget
+  /T (P_0_12)
+  /Type /Annot
+>>
+endobj
+
+64 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 640 200 660
+  ]
+  /Subtype /Widget
+  /T (P_0_13)
+  /Type /Annot
+>>
+endobj
+
+65 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    180 660 200 680
+  ]
+  /Subtype /Widget
+  /T (P_0_14)
+  /Type /Annot
+>>
+endobj
+
+66 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 380 220 400
+  ]
+  /Subtype /Widget
+  /T (P_1_0)
+  /Type /Annot
+>>
+endobj
+
+67 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 400 220 420
+  ]
+  /Subtype /Widget
+  /T (P_1_1)
+  /Type /Annot
+>>
+endobj
+
+68 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 420 220 440
+  ]
+  /Subtype /Widget
+  /T (P_1_2)
+  /Type /Annot
+>>
+endobj
+
+69 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 440 220 460
+  ]
+  /Subtype /Widget
+  /T (P_1_3)
+  /Type /Annot
+>>
+endobj
+
+70 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 460 220 480
+  ]
+  /Subtype /Widget
+  /T (P_1_4)
+  /Type /Annot
+>>
+endobj
+
+71 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 480 220 500
+  ]
+  /Subtype /Widget
+  /T (P_1_5)
+  /Type /Annot
+>>
+endobj
+
+72 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 500 220 520
+  ]
+  /Subtype /Widget
+  /T (P_1_6)
+  /Type /Annot
+>>
+endobj
+
+73 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 520 220 540
+  ]
+  /Subtype /Widget
+  /T (P_1_7)
+  /Type /Annot
+>>
+endobj
+
+74 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 540 220 560
+  ]
+  /Subtype /Widget
+  /T (P_1_8)
+  /Type /Annot
+>>
+endobj
+
+75 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 560 220 580
+  ]
+  /Subtype /Widget
+  /T (P_1_9)
+  /Type /Annot
+>>
+endobj
+
+76 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 580 220 600
+  ]
+  /Subtype /Widget
+  /T (P_1_10)
+  /Type /Annot
+>>
+endobj
+
+77 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 600 220 620
+  ]
+  /Subtype /Widget
+  /T (P_1_11)
+  /Type /Annot
+>>
+endobj
+
+78 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 620 220 640
+  ]
+  /Subtype /Widget
+  /T (P_1_12)
+  /Type /Annot
+>>
+endobj
+
+79 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 640 220 660
+  ]
+  /Subtype /Widget
+  /T (P_1_13)
+  /Type /Annot
+>>
+endobj
+
+80 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    200 660 220 680
+  ]
+  /Subtype /Widget
+  /T (P_1_14)
+  /Type /Annot
+>>
+endobj
+
+81 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 380 240 400
+  ]
+  /Subtype /Widget
+  /T (P_2_0)
+  /Type /Annot
+>>
+endobj
+
+82 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 400 240 420
+  ]
+  /Subtype /Widget
+  /T (P_2_1)
+  /Type /Annot
+>>
+endobj
+
+83 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 420 240 440
+  ]
+  /Subtype /Widget
+  /T (P_2_2)
+  /Type /Annot
+>>
+endobj
+
+84 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 440 240 460
+  ]
+  /Subtype /Widget
+  /T (P_2_3)
+  /Type /Annot
+>>
+endobj
+
+85 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 460 240 480
+  ]
+  /Subtype /Widget
+  /T (P_2_4)
+  /Type /Annot
+>>
+endobj
+
+86 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 480 240 500
+  ]
+  /Subtype /Widget
+  /T (P_2_5)
+  /Type /Annot
+>>
+endobj
+
+87 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 500 240 520
+  ]
+  /Subtype /Widget
+  /T (P_2_6)
+  /Type /Annot
+>>
+endobj
+
+88 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 520 240 540
+  ]
+  /Subtype /Widget
+  /T (P_2_7)
+  /Type /Annot
+>>
+endobj
+
+89 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 540 240 560
+  ]
+  /Subtype /Widget
+  /T (P_2_8)
+  /Type /Annot
+>>
+endobj
+
+90 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 560 240 580
+  ]
+  /Subtype /Widget
+  /T (P_2_9)
+  /Type /Annot
+>>
+endobj
+
+91 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 580 240 600
+  ]
+  /Subtype /Widget
+  /T (P_2_10)
+  /Type /Annot
+>>
+endobj
+
+92 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 600 240 620
+  ]
+  /Subtype /Widget
+  /T (P_2_11)
+  /Type /Annot
+>>
+endobj
+
+93 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 620 240 640
+  ]
+  /Subtype /Widget
+  /T (P_2_12)
+  /Type /Annot
+>>
+endobj
+
+94 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 640 240 660
+  ]
+  /Subtype /Widget
+  /T (P_2_13)
+  /Type /Annot
+>>
+endobj
+
+95 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    220 660 240 680
+  ]
+  /Subtype /Widget
+  /T (P_2_14)
+  /Type /Annot
+>>
+endobj
+
+96 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 380 260 400
+  ]
+  /Subtype /Widget
+  /T (P_3_0)
+  /Type /Annot
+>>
+endobj
+
+97 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 400 260 420
+  ]
+  /Subtype /Widget
+  /T (P_3_1)
+  /Type /Annot
+>>
+endobj
+
+98 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 420 260 440
+  ]
+  /Subtype /Widget
+  /T (P_3_2)
+  /Type /Annot
+>>
+endobj
+
+99 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 440 260 460
+  ]
+  /Subtype /Widget
+  /T (P_3_3)
+  /Type /Annot
+>>
+endobj
+
+100 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 460 260 480
+  ]
+  /Subtype /Widget
+  /T (P_3_4)
+  /Type /Annot
+>>
+endobj
+
+101 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 480 260 500
+  ]
+  /Subtype /Widget
+  /T (P_3_5)
+  /Type /Annot
+>>
+endobj
+
+102 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 500 260 520
+  ]
+  /Subtype /Widget
+  /T (P_3_6)
+  /Type /Annot
+>>
+endobj
+
+103 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 520 260 540
+  ]
+  /Subtype /Widget
+  /T (P_3_7)
+  /Type /Annot
+>>
+endobj
+
+104 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 540 260 560
+  ]
+  /Subtype /Widget
+  /T (P_3_8)
+  /Type /Annot
+>>
+endobj
+
+105 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 560 260 580
+  ]
+  /Subtype /Widget
+  /T (P_3_9)
+  /Type /Annot
+>>
+endobj
+
+106 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 580 260 600
+  ]
+  /Subtype /Widget
+  /T (P_3_10)
+  /Type /Annot
+>>
+endobj
+
+107 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 600 260 620
+  ]
+  /Subtype /Widget
+  /T (P_3_11)
+  /Type /Annot
+>>
+endobj
+
+108 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 620 260 640
+  ]
+  /Subtype /Widget
+  /T (P_3_12)
+  /Type /Annot
+>>
+endobj
+
+109 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 640 260 660
+  ]
+  /Subtype /Widget
+  /T (P_3_13)
+  /Type /Annot
+>>
+endobj
+
+110 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    240 660 260 680
+  ]
+  /Subtype /Widget
+  /T (P_3_14)
+  /Type /Annot
+>>
+endobj
+
+111 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 380 280 400
+  ]
+  /Subtype /Widget
+  /T (P_4_0)
+  /Type /Annot
+>>
+endobj
+
+112 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 400 280 420
+  ]
+  /Subtype /Widget
+  /T (P_4_1)
+  /Type /Annot
+>>
+endobj
+
+113 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 420 280 440
+  ]
+  /Subtype /Widget
+  /T (P_4_2)
+  /Type /Annot
+>>
+endobj
+
+114 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 440 280 460
+  ]
+  /Subtype /Widget
+  /T (P_4_3)
+  /Type /Annot
+>>
+endobj
+
+115 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 460 280 480
+  ]
+  /Subtype /Widget
+  /T (P_4_4)
+  /Type /Annot
+>>
+endobj
+
+116 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 480 280 500
+  ]
+  /Subtype /Widget
+  /T (P_4_5)
+  /Type /Annot
+>>
+endobj
+
+117 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 500 280 520
+  ]
+  /Subtype /Widget
+  /T (P_4_6)
+  /Type /Annot
+>>
+endobj
+
+118 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 520 280 540
+  ]
+  /Subtype /Widget
+  /T (P_4_7)
+  /Type /Annot
+>>
+endobj
+
+119 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 540 280 560
+  ]
+  /Subtype /Widget
+  /T (P_4_8)
+  /Type /Annot
+>>
+endobj
+
+120 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 560 280 580
+  ]
+  /Subtype /Widget
+  /T (P_4_9)
+  /Type /Annot
+>>
+endobj
+
+121 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 580 280 600
+  ]
+  /Subtype /Widget
+  /T (P_4_10)
+  /Type /Annot
+>>
+endobj
+
+122 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 600 280 620
+  ]
+  /Subtype /Widget
+  /T (P_4_11)
+  /Type /Annot
+>>
+endobj
+
+123 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 620 280 640
+  ]
+  /Subtype /Widget
+  /T (P_4_12)
+  /Type /Annot
+>>
+endobj
+
+124 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 640 280 660
+  ]
+  /Subtype /Widget
+  /T (P_4_13)
+  /Type /Annot
+>>
+endobj
+
+125 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    260 660 280 680
+  ]
+  /Subtype /Widget
+  /T (P_4_14)
+  /Type /Annot
+>>
+endobj
+
+126 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 380 300 400
+  ]
+  /Subtype /Widget
+  /T (P_5_0)
+  /Type /Annot
+>>
+endobj
+
+127 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 400 300 420
+  ]
+  /Subtype /Widget
+  /T (P_5_1)
+  /Type /Annot
+>>
+endobj
+
+128 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 420 300 440
+  ]
+  /Subtype /Widget
+  /T (P_5_2)
+  /Type /Annot
+>>
+endobj
+
+129 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 440 300 460
+  ]
+  /Subtype /Widget
+  /T (P_5_3)
+  /Type /Annot
+>>
+endobj
+
+130 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 460 300 480
+  ]
+  /Subtype /Widget
+  /T (P_5_4)
+  /Type /Annot
+>>
+endobj
+
+131 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 480 300 500
+  ]
+  /Subtype /Widget
+  /T (P_5_5)
+  /Type /Annot
+>>
+endobj
+
+132 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 500 300 520
+  ]
+  /Subtype /Widget
+  /T (P_5_6)
+  /Type /Annot
+>>
+endobj
+
+133 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 520 300 540
+  ]
+  /Subtype /Widget
+  /T (P_5_7)
+  /Type /Annot
+>>
+endobj
+
+134 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 540 300 560
+  ]
+  /Subtype /Widget
+  /T (P_5_8)
+  /Type /Annot
+>>
+endobj
+
+135 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 560 300 580
+  ]
+  /Subtype /Widget
+  /T (P_5_9)
+  /Type /Annot
+>>
+endobj
+
+136 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 580 300 600
+  ]
+  /Subtype /Widget
+  /T (P_5_10)
+  /Type /Annot
+>>
+endobj
+
+137 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 600 300 620
+  ]
+  /Subtype /Widget
+  /T (P_5_11)
+  /Type /Annot
+>>
+endobj
+
+138 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 620 300 640
+  ]
+  /Subtype /Widget
+  /T (P_5_12)
+  /Type /Annot
+>>
+endobj
+
+139 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 640 300 660
+  ]
+  /Subtype /Widget
+  /T (P_5_13)
+  /Type /Annot
+>>
+endobj
+
+140 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    280 660 300 680
+  ]
+  /Subtype /Widget
+  /T (P_5_14)
+  /Type /Annot
+>>
+endobj
+
+141 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 380 320 400
+  ]
+  /Subtype /Widget
+  /T (P_6_0)
+  /Type /Annot
+>>
+endobj
+
+142 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 400 320 420
+  ]
+  /Subtype /Widget
+  /T (P_6_1)
+  /Type /Annot
+>>
+endobj
+
+143 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 420 320 440
+  ]
+  /Subtype /Widget
+  /T (P_6_2)
+  /Type /Annot
+>>
+endobj
+
+144 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 440 320 460
+  ]
+  /Subtype /Widget
+  /T (P_6_3)
+  /Type /Annot
+>>
+endobj
+
+145 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 460 320 480
+  ]
+  /Subtype /Widget
+  /T (P_6_4)
+  /Type /Annot
+>>
+endobj
+
+146 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 480 320 500
+  ]
+  /Subtype /Widget
+  /T (P_6_5)
+  /Type /Annot
+>>
+endobj
+
+147 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 500 320 520
+  ]
+  /Subtype /Widget
+  /T (P_6_6)
+  /Type /Annot
+>>
+endobj
+
+148 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 520 320 540
+  ]
+  /Subtype /Widget
+  /T (P_6_7)
+  /Type /Annot
+>>
+endobj
+
+149 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 540 320 560
+  ]
+  /Subtype /Widget
+  /T (P_6_8)
+  /Type /Annot
+>>
+endobj
+
+150 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 560 320 580
+  ]
+  /Subtype /Widget
+  /T (P_6_9)
+  /Type /Annot
+>>
+endobj
+
+151 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 580 320 600
+  ]
+  /Subtype /Widget
+  /T (P_6_10)
+  /Type /Annot
+>>
+endobj
+
+152 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 600 320 620
+  ]
+  /Subtype /Widget
+  /T (P_6_11)
+  /Type /Annot
+>>
+endobj
+
+153 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 620 320 640
+  ]
+  /Subtype /Widget
+  /T (P_6_12)
+  /Type /Annot
+>>
+endobj
+
+154 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 640 320 660
+  ]
+  /Subtype /Widget
+  /T (P_6_13)
+  /Type /Annot
+>>
+endobj
+
+155 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    300 660 320 680
+  ]
+  /Subtype /Widget
+  /T (P_6_14)
+  /Type /Annot
+>>
+endobj
+
+156 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 380 340 400
+  ]
+  /Subtype /Widget
+  /T (P_7_0)
+  /Type /Annot
+>>
+endobj
+
+157 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 400 340 420
+  ]
+  /Subtype /Widget
+  /T (P_7_1)
+  /Type /Annot
+>>
+endobj
+
+158 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 420 340 440
+  ]
+  /Subtype /Widget
+  /T (P_7_2)
+  /Type /Annot
+>>
+endobj
+
+159 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 440 340 460
+  ]
+  /Subtype /Widget
+  /T (P_7_3)
+  /Type /Annot
+>>
+endobj
+
+160 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 460 340 480
+  ]
+  /Subtype /Widget
+  /T (P_7_4)
+  /Type /Annot
+>>
+endobj
+
+161 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 480 340 500
+  ]
+  /Subtype /Widget
+  /T (P_7_5)
+  /Type /Annot
+>>
+endobj
+
+162 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 500 340 520
+  ]
+  /Subtype /Widget
+  /T (P_7_6)
+  /Type /Annot
+>>
+endobj
+
+163 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 520 340 540
+  ]
+  /Subtype /Widget
+  /T (P_7_7)
+  /Type /Annot
+>>
+endobj
+
+164 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 540 340 560
+  ]
+  /Subtype /Widget
+  /T (P_7_8)
+  /Type /Annot
+>>
+endobj
+
+165 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 560 340 580
+  ]
+  /Subtype /Widget
+  /T (P_7_9)
+  /Type /Annot
+>>
+endobj
+
+166 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 580 340 600
+  ]
+  /Subtype /Widget
+  /T (P_7_10)
+  /Type /Annot
+>>
+endobj
+
+167 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 600 340 620
+  ]
+  /Subtype /Widget
+  /T (P_7_11)
+  /Type /Annot
+>>
+endobj
+
+168 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 620 340 640
+  ]
+  /Subtype /Widget
+  /T (P_7_12)
+  /Type /Annot
+>>
+endobj
+
+169 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 640 340 660
+  ]
+  /Subtype /Widget
+  /T (P_7_13)
+  /Type /Annot
+>>
+endobj
+
+170 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    320 660 340 680
+  ]
+  /Subtype /Widget
+  /T (P_7_14)
+  /Type /Annot
+>>
+endobj
+
+171 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 380 360 400
+  ]
+  /Subtype /Widget
+  /T (P_8_0)
+  /Type /Annot
+>>
+endobj
+
+172 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 400 360 420
+  ]
+  /Subtype /Widget
+  /T (P_8_1)
+  /Type /Annot
+>>
+endobj
+
+173 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 420 360 440
+  ]
+  /Subtype /Widget
+  /T (P_8_2)
+  /Type /Annot
+>>
+endobj
+
+174 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 440 360 460
+  ]
+  /Subtype /Widget
+  /T (P_8_3)
+  /Type /Annot
+>>
+endobj
+
+175 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 460 360 480
+  ]
+  /Subtype /Widget
+  /T (P_8_4)
+  /Type /Annot
+>>
+endobj
+
+176 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 480 360 500
+  ]
+  /Subtype /Widget
+  /T (P_8_5)
+  /Type /Annot
+>>
+endobj
+
+177 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 500 360 520
+  ]
+  /Subtype /Widget
+  /T (P_8_6)
+  /Type /Annot
+>>
+endobj
+
+178 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 520 360 540
+  ]
+  /Subtype /Widget
+  /T (P_8_7)
+  /Type /Annot
+>>
+endobj
+
+179 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 540 360 560
+  ]
+  /Subtype /Widget
+  /T (P_8_8)
+  /Type /Annot
+>>
+endobj
+
+180 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 560 360 580
+  ]
+  /Subtype /Widget
+  /T (P_8_9)
+  /Type /Annot
+>>
+endobj
+
+181 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 580 360 600
+  ]
+  /Subtype /Widget
+  /T (P_8_10)
+  /Type /Annot
+>>
+endobj
+
+182 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 600 360 620
+  ]
+  /Subtype /Widget
+  /T (P_8_11)
+  /Type /Annot
+>>
+endobj
+
+183 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 620 360 640
+  ]
+  /Subtype /Widget
+  /T (P_8_12)
+  /Type /Annot
+>>
+endobj
+
+184 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 640 360 660
+  ]
+  /Subtype /Widget
+  /T (P_8_13)
+  /Type /Annot
+>>
+endobj
+
+185 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    340 660 360 680
+  ]
+  /Subtype /Widget
+  /T (P_8_14)
+  /Type /Annot
+>>
+endobj
+
+186 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 380 380 400
+  ]
+  /Subtype /Widget
+  /T (P_9_0)
+  /Type /Annot
+>>
+endobj
+
+187 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 400 380 420
+  ]
+  /Subtype /Widget
+  /T (P_9_1)
+  /Type /Annot
+>>
+endobj
+
+188 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 420 380 440
+  ]
+  /Subtype /Widget
+  /T (P_9_2)
+  /Type /Annot
+>>
+endobj
+
+189 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 440 380 460
+  ]
+  /Subtype /Widget
+  /T (P_9_3)
+  /Type /Annot
+>>
+endobj
+
+190 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 460 380 480
+  ]
+  /Subtype /Widget
+  /T (P_9_4)
+  /Type /Annot
+>>
+endobj
+
+191 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 480 380 500
+  ]
+  /Subtype /Widget
+  /T (P_9_5)
+  /Type /Annot
+>>
+endobj
+
+192 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 500 380 520
+  ]
+  /Subtype /Widget
+  /T (P_9_6)
+  /Type /Annot
+>>
+endobj
+
+193 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 520 380 540
+  ]
+  /Subtype /Widget
+  /T (P_9_7)
+  /Type /Annot
+>>
+endobj
+
+194 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 540 380 560
+  ]
+  /Subtype /Widget
+  /T (P_9_8)
+  /Type /Annot
+>>
+endobj
+
+195 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 560 380 580
+  ]
+  /Subtype /Widget
+  /T (P_9_9)
+  /Type /Annot
+>>
+endobj
+
+196 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 580 380 600
+  ]
+  /Subtype /Widget
+  /T (P_9_10)
+  /Type /Annot
+>>
+endobj
+
+197 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 600 380 620
+  ]
+  /Subtype /Widget
+  /T (P_9_11)
+  /Type /Annot
+>>
+endobj
+
+198 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 620 380 640
+  ]
+  /Subtype /Widget
+  /T (P_9_12)
+  /Type /Annot
+>>
+endobj
+
+199 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 640 380 660
+  ]
+  /Subtype /Widget
+  /T (P_9_13)
+  /Type /Annot
+>>
+endobj
+
+200 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    360 660 380 680
+  ]
+  /Subtype /Widget
+  /T (P_9_14)
+  /Type /Annot
+>>
+endobj
+
+201 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 380 400 400
+  ]
+  /Subtype /Widget
+  /T (P_10_0)
+  /Type /Annot
+>>
+endobj
+
+202 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 400 400 420
+  ]
+  /Subtype /Widget
+  /T (P_10_1)
+  /Type /Annot
+>>
+endobj
+
+203 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 420 400 440
+  ]
+  /Subtype /Widget
+  /T (P_10_2)
+  /Type /Annot
+>>
+endobj
+
+204 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 440 400 460
+  ]
+  /Subtype /Widget
+  /T (P_10_3)
+  /Type /Annot
+>>
+endobj
+
+205 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 460 400 480
+  ]
+  /Subtype /Widget
+  /T (P_10_4)
+  /Type /Annot
+>>
+endobj
+
+206 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 480 400 500
+  ]
+  /Subtype /Widget
+  /T (P_10_5)
+  /Type /Annot
+>>
+endobj
+
+207 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 500 400 520
+  ]
+  /Subtype /Widget
+  /T (P_10_6)
+  /Type /Annot
+>>
+endobj
+
+208 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 520 400 540
+  ]
+  /Subtype /Widget
+  /T (P_10_7)
+  /Type /Annot
+>>
+endobj
+
+209 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 540 400 560
+  ]
+  /Subtype /Widget
+  /T (P_10_8)
+  /Type /Annot
+>>
+endobj
+
+210 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 560 400 580
+  ]
+  /Subtype /Widget
+  /T (P_10_9)
+  /Type /Annot
+>>
+endobj
+
+211 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 580 400 600
+  ]
+  /Subtype /Widget
+  /T (P_10_10)
+  /Type /Annot
+>>
+endobj
+
+212 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 600 400 620
+  ]
+  /Subtype /Widget
+  /T (P_10_11)
+  /Type /Annot
+>>
+endobj
+
+213 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 620 400 640
+  ]
+  /Subtype /Widget
+  /T (P_10_12)
+  /Type /Annot
+>>
+endobj
+
+214 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 640 400 660
+  ]
+  /Subtype /Widget
+  /T (P_10_13)
+  /Type /Annot
+>>
+endobj
+
+215 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    380 660 400 680
+  ]
+  /Subtype /Widget
+  /T (P_10_14)
+  /Type /Annot
+>>
+endobj
+
+216 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 380 420 400
+  ]
+  /Subtype /Widget
+  /T (P_11_0)
+  /Type /Annot
+>>
+endobj
+
+217 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 400 420 420
+  ]
+  /Subtype /Widget
+  /T (P_11_1)
+  /Type /Annot
+>>
+endobj
+
+218 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 420 420 440
+  ]
+  /Subtype /Widget
+  /T (P_11_2)
+  /Type /Annot
+>>
+endobj
+
+219 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 440 420 460
+  ]
+  /Subtype /Widget
+  /T (P_11_3)
+  /Type /Annot
+>>
+endobj
+
+220 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 460 420 480
+  ]
+  /Subtype /Widget
+  /T (P_11_4)
+  /Type /Annot
+>>
+endobj
+
+221 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 480 420 500
+  ]
+  /Subtype /Widget
+  /T (P_11_5)
+  /Type /Annot
+>>
+endobj
+
+222 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 500 420 520
+  ]
+  /Subtype /Widget
+  /T (P_11_6)
+  /Type /Annot
+>>
+endobj
+
+223 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 520 420 540
+  ]
+  /Subtype /Widget
+  /T (P_11_7)
+  /Type /Annot
+>>
+endobj
+
+224 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 540 420 560
+  ]
+  /Subtype /Widget
+  /T (P_11_8)
+  /Type /Annot
+>>
+endobj
+
+225 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 560 420 580
+  ]
+  /Subtype /Widget
+  /T (P_11_9)
+  /Type /Annot
+>>
+endobj
+
+226 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 580 420 600
+  ]
+  /Subtype /Widget
+  /T (P_11_10)
+  /Type /Annot
+>>
+endobj
+
+227 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 600 420 620
+  ]
+  /Subtype /Widget
+  /T (P_11_11)
+  /Type /Annot
+>>
+endobj
+
+228 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 620 420 640
+  ]
+  /Subtype /Widget
+  /T (P_11_12)
+  /Type /Annot
+>>
+endobj
+
+229 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 640 420 660
+  ]
+  /Subtype /Widget
+  /T (P_11_13)
+  /Type /Annot
+>>
+endobj
+
+230 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    400 660 420 680
+  ]
+  /Subtype /Widget
+  /T (P_11_14)
+  /Type /Annot
+>>
+endobj
+
+231 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 380 440 400
+  ]
+  /Subtype /Widget
+  /T (P_12_0)
+  /Type /Annot
+>>
+endobj
+
+232 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 400 440 420
+  ]
+  /Subtype /Widget
+  /T (P_12_1)
+  /Type /Annot
+>>
+endobj
+
+233 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 420 440 440
+  ]
+  /Subtype /Widget
+  /T (P_12_2)
+  /Type /Annot
+>>
+endobj
+
+234 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 440 440 460
+  ]
+  /Subtype /Widget
+  /T (P_12_3)
+  /Type /Annot
+>>
+endobj
+
+235 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 460 440 480
+  ]
+  /Subtype /Widget
+  /T (P_12_4)
+  /Type /Annot
+>>
+endobj
+
+236 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 480 440 500
+  ]
+  /Subtype /Widget
+  /T (P_12_5)
+  /Type /Annot
+>>
+endobj
+
+237 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 500 440 520
+  ]
+  /Subtype /Widget
+  /T (P_12_6)
+  /Type /Annot
+>>
+endobj
+
+238 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 520 440 540
+  ]
+  /Subtype /Widget
+  /T (P_12_7)
+  /Type /Annot
+>>
+endobj
+
+239 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 540 440 560
+  ]
+  /Subtype /Widget
+  /T (P_12_8)
+  /Type /Annot
+>>
+endobj
+
+240 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 560 440 580
+  ]
+  /Subtype /Widget
+  /T (P_12_9)
+  /Type /Annot
+>>
+endobj
+
+241 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 580 440 600
+  ]
+  /Subtype /Widget
+  /T (P_12_10)
+  /Type /Annot
+>>
+endobj
+
+242 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 600 440 620
+  ]
+  /Subtype /Widget
+  /T (P_12_11)
+  /Type /Annot
+>>
+endobj
+
+243 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 620 440 640
+  ]
+  /Subtype /Widget
+  /T (P_12_12)
+  /Type /Annot
+>>
+endobj
+
+244 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 640 440 660
+  ]
+  /Subtype /Widget
+  /T (P_12_13)
+  /Type /Annot
+>>
+endobj
+
+245 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    420 660 440 680
+  ]
+  /Subtype /Widget
+  /T (P_12_14)
+  /Type /Annot
+>>
+endobj
+
+246 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 380 460 400
+  ]
+  /Subtype /Widget
+  /T (P_13_0)
+  /Type /Annot
+>>
+endobj
+
+247 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 400 460 420
+  ]
+  /Subtype /Widget
+  /T (P_13_1)
+  /Type /Annot
+>>
+endobj
+
+248 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 420 460 440
+  ]
+  /Subtype /Widget
+  /T (P_13_2)
+  /Type /Annot
+>>
+endobj
+
+249 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 440 460 460
+  ]
+  /Subtype /Widget
+  /T (P_13_3)
+  /Type /Annot
+>>
+endobj
+
+250 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 460 460 480
+  ]
+  /Subtype /Widget
+  /T (P_13_4)
+  /Type /Annot
+>>
+endobj
+
+251 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 480 460 500
+  ]
+  /Subtype /Widget
+  /T (P_13_5)
+  /Type /Annot
+>>
+endobj
+
+252 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 500 460 520
+  ]
+  /Subtype /Widget
+  /T (P_13_6)
+  /Type /Annot
+>>
+endobj
+
+253 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 520 460 540
+  ]
+  /Subtype /Widget
+  /T (P_13_7)
+  /Type /Annot
+>>
+endobj
+
+254 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 540 460 560
+  ]
+  /Subtype /Widget
+  /T (P_13_8)
+  /Type /Annot
+>>
+endobj
+
+255 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 560 460 580
+  ]
+  /Subtype /Widget
+  /T (P_13_9)
+  /Type /Annot
+>>
+endobj
+
+256 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 580 460 600
+  ]
+  /Subtype /Widget
+  /T (P_13_10)
+  /Type /Annot
+>>
+endobj
+
+257 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 600 460 620
+  ]
+  /Subtype /Widget
+  /T (P_13_11)
+  /Type /Annot
+>>
+endobj
+
+258 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 620 460 640
+  ]
+  /Subtype /Widget
+  /T (P_13_12)
+  /Type /Annot
+>>
+endobj
+
+259 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 640 460 660
+  ]
+  /Subtype /Widget
+  /T (P_13_13)
+  /Type /Annot
+>>
+endobj
+
+260 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    440 660 460 680
+  ]
+  /Subtype /Widget
+  /T (P_13_14)
+  /Type /Annot
+>>
+endobj
+
+261 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 380 480 400
+  ]
+  /Subtype /Widget
+  /T (P_14_0)
+  /Type /Annot
+>>
+endobj
+
+262 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 400 480 420
+  ]
+  /Subtype /Widget
+  /T (P_14_1)
+  /Type /Annot
+>>
+endobj
+
+263 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 420 480 440
+  ]
+  /Subtype /Widget
+  /T (P_14_2)
+  /Type /Annot
+>>
+endobj
+
+264 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 440 480 460
+  ]
+  /Subtype /Widget
+  /T (P_14_3)
+  /Type /Annot
+>>
+endobj
+
+265 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 460 480 480
+  ]
+  /Subtype /Widget
+  /T (P_14_4)
+  /Type /Annot
+>>
+endobj
+
+266 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 480 480 500
+  ]
+  /Subtype /Widget
+  /T (P_14_5)
+  /Type /Annot
+>>
+endobj
+
+267 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 500 480 520
+  ]
+  /Subtype /Widget
+  /T (P_14_6)
+  /Type /Annot
+>>
+endobj
+
+268 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 520 480 540
+  ]
+  /Subtype /Widget
+  /T (P_14_7)
+  /Type /Annot
+>>
+endobj
+
+269 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 540 480 560
+  ]
+  /Subtype /Widget
+  /T (P_14_8)
+  /Type /Annot
+>>
+endobj
+
+270 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 560 480 580
+  ]
+  /Subtype /Widget
+  /T (P_14_9)
+  /Type /Annot
+>>
+endobj
+
+271 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 580 480 600
+  ]
+  /Subtype /Widget
+  /T (P_14_10)
+  /Type /Annot
+>>
+endobj
+
+272 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 600 480 620
+  ]
+  /Subtype /Widget
+  /T (P_14_11)
+  /Type /Annot
+>>
+endobj
+
+273 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 620 480 640
+  ]
+  /Subtype /Widget
+  /T (P_14_12)
+  /Type /Annot
+>>
+endobj
+
+274 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 640 480 660
+  ]
+  /Subtype /Widget
+  /T (P_14_13)
+  /Type /Annot
+>>
+endobj
+
+275 0 obj
+<<
+  /FT /Btn
+  /Ff 1
+  /MK <<
+    /BG [
+      0.85 0.85 0.85
+    ]
+    /BC [
+      0.5 0.5 0.5
+    ]
+  >>
+  /Border [ 0 0 1 ]
+  /P 16 0 R
+  /Rect [
+    460 660 480 680
+  ]
+  /Subtype /Widget
+  /T (P_14_14)
+  /Type /Annot
+>>
+endobj
+
+276 0 obj
+<< >>
+stream
+set_direction(-1, 0);
+endstream
+endobj
+
+277 0 obj
+<<
+  /BBox [ 0.0 0.0 50 50 ]
+  /FormType 1
+  /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0]
+  /Resources <<
+    /Font <<
+      /HeBo 10 0 R
+    >>
+    /ProcSet [ /PDF /Text ]
+  >>
+  /Subtype /Form
+  /Type /XObject
+>>
+stream
+q
+0.75 g
+0 0 50 50 re
+f
+Q
+q
+1 1 50 50 re
+W
+n
+BT
+/HeBo 12 Tf
+0 g
+10 8 Td
+(<) Tj
+ET
+Q
+endstream
+endobj
+
+278 0 obj
+<<
+  /A <<
+	  /JS 276 0 R
+	  /S /JavaScript
+	>>
+  /AP <<
+    /N 277 0 R
+  >>
+  /F 4
+  /FT /Btn
+  /Ff 65536
+  /MK <<
+    /BG [
+      0.75
+    ]
+    /CA (###LABEL###)
+  >>
+  /P 16 0 R
+  /Rect [
+    225 280 275 330
+  ]
+  /Subtype /Widget
+  /T (B_left)
+  /Type /Annot
+>>
+endobj
+
+279 0 obj
+<< >>
+stream
+set_direction(1, 0);
+endstream
+endobj
+
+280 0 obj
+<<
+  /BBox [ 0.0 0.0 50 50 ]
+  /FormType 1
+  /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0]
+  /Resources <<
+    /Font <<
+      /HeBo 10 0 R
+    >>
+    /ProcSet [ /PDF /Text ]
+  >>
+  /Subtype /Form
+  /Type /XObject
+>>
+stream
+q
+0.75 g
+0 0 50 50 re
+f
+Q
+q
+1 1 50 50 re
+W
+n
+BT
+/HeBo 12 Tf
+0 g
+10 8 Td
+(>) Tj
+ET
+Q
+endstream
+endobj
+
+281 0 obj
+<<
+  /A <<
+	  /JS 279 0 R
+	  /S /JavaScript
+	>>
+  /AP <<
+    /N 280 0 R
+  >>
+  /F 4
+  /FT /Btn
+  /Ff 65536
+  /MK <<
+    /BG [
+      0.75
+    ]
+    /CA (###LABEL###)
+  >>
+  /P 16 0 R
+  /Rect [
+    345 280 395 330
+  ]
+  /Subtype /Widget
+  /T (B_right)
+  /Type /Annot
+>>
+endobj
+
+282 0 obj
+<< >>
+stream
+set_direction(0, -1);
+endstream
+endobj
+
+283 0 obj
+<<
+  /BBox [ 0.0 0.0 50 50 ]
+  /FormType 1
+  /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0]
+  /Resources <<
+    /Font <<
+      /HeBo 10 0 R
+    >>
+    /ProcSet [ /PDF /Text ]
+  >>
+  /Subtype /Form
+  /Type /XObject
+>>
+stream
+q
+0.75 g
+0 0 50 50 re
+f
+Q
+q
+1 1 50 50 re
+W
+n
+BT
+/HeBo 12 Tf
+0 g
+10 8 Td
+(^) Tj
+ET
+Q
+endstream
+endobj
+
+284 0 obj
+<<
+  /A <<
+	  /JS 282 0 R
+	  /S /JavaScript
+	>>
+  /AP <<
+    /N 283 0 R
+  >>
+  /F 4
+  /FT /Btn
+  /Ff 65536
+  /MK <<
+    /BG [
+      0.75
+    ]
+    /CA (###LABEL###)
+  >>
+  /P 16 0 R
+  /Rect [
+    285 310 335 360
+  ]
+  /Subtype /Widget
+  /T (B_up)
+  /Type /Annot
+>>
+endobj
+
+285 0 obj
+<< >>
+stream
+set_direction(0, 1);
+endstream
+endobj
+
+286 0 obj
+<<
+  /BBox [ 0.0 0.0 50 50 ]
+  /FormType 1
+  /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0]
+  /Resources <<
+    /Font <<
+      /HeBo 10 0 R
+    >>
+    /ProcSet [ /PDF /Text ]
+  >>
+  /Subtype /Form
+  /Type /XObject
+>>
+stream
+q
+0.75 g
+0 0 50 50 re
+f
+Q
+q
+1 1 50 50 re
+W
+n
+BT
+/HeBo 12 Tf
+0 g
+10 8 Td
+(v) Tj
+ET
+Q
+endstream
+endobj
+
+287 0 obj
+<<
+  /A <<
+	  /JS 285 0 R
+	  /S /JavaScript
+	>>
+  /AP <<
+    /N 286 0 R
+  >>
+  /F 4
+  /FT /Btn
+  /Ff 65536
+  /MK <<
+    /BG [
+      0.75
+    ]
+    /CA (###LABEL###)
+  >>
+  /P 16 0 R
+  /Rect [
+    285 250 335 300
+  ]
+  /Subtype /Widget
+  /T (B_down)
+  /Type /Annot
+>>
+endobj
+
+288 0 obj
+<< >>
+stream
+game_init();
+endstream
+endobj
+
+289 0 obj
+<<
+  /BBox [ 0.0 0.0 100 100 ]
+  /FormType 1
+  /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0]
+  /Resources <<
+    /Font <<
+      /HeBo 10 0 R
+    >>
+    /ProcSet [ /PDF /Text ]
+  >>
+  /Subtype /Form
+  /Type /XObject
+>>
+stream
+q
+0.75 g
+0 0 100 100 re
+f
+Q
+q
+1 1 100 100 re
+W
+n
+BT
+/HeBo 12 Tf
+0 g
+10 8 Td
+(Start game) Tj
+ET
+Q
+endstream
+endobj
+
+290 0 obj
+<<
+  /A <<
+	  /JS 288 0 R
+	  /S /JavaScript
+	>>
+  /AP <<
+    /N 289 0 R
+  >>
+  /F 4
+  /FT /Btn
+  /Ff 65536
+  /MK <<
+    /BG [
+      0.75
+    ]
+    /CA (###LABEL###)
+  >>
+  /P 16 0 R
+  /Rect [
+    280.0 480.0 380.0 580.0
+  ]
+  /Subtype /Widget
+  /T (B_start)
+  /Type /Annot
+>>
+endobj
+
+291 0 obj
+<< >>
+stream
+
+endstream
+endobj
+
+292 0 obj
+<<
+	/AA <<
+		/K <<
+			/JS 291 0 R
+			/S /JavaScript
+		>>
+	>>
+	/F 4
+	/FT /Tx
+	/MK <<
+	>>
+	/MaxLen 0
+	/P 16 0 R
+	/Rect [
+		490 650 590 680
+	]
+	/Subtype /Widget
+	/T (T_score)
+	/V (Score: 0)
+	/Type /Annot
+>>
+endobj
+
+
+%% Page 1
+16 0 obj
+<<
+  /Annots 21 0 R
+  /Contents 3 0 R
+  /CropBox [
+    0.0
+    0.0
+    612.0
+    792.0
+  ]
+  /MediaBox [
+    0.0
+    0.0
+    612.0
+    792.0
+  ]
+  /Parent 2 0 R
+  /Resources <<
+  >>
+  /Rotate 0
+  /Type /Page
+>>
+endobj
+
+3 0 obj
+<< >>
+stream
+endstream
+endobj
+
+17 0 obj
+<<
+  /JS 42 0 R
+  /S /JavaScript
+>>
+endobj
+
+
+42 0 obj
+<< >>
+stream
+
+// Hacky wrapper to work with a callback instead of a string
+function setInterval(cb, ms) {
+	evalStr = "(" + cb.toString() + ")();";
+	return app.setInterval(evalStr, ms);
+}
+
+// https://gist.github.com/blixt/f17b47c62508be59987b
+var rand_seed = Date.now() % 2147483647;
+function rand() {
+	return rand_seed = rand_seed * 16807 % 2147483647;
+}
+
+var TICK_INTERVAL = 400;
+
+// Globals
+var pixel_fields = [];
+var snake = [];
+var dir = { dx: 1, dy: 0 };
+var next_dir = { dx: 1, dy: 0 };
+var food = { x: 0, y: 0 };
+var score = 0;
+var interval = 0;
+var started = false;
+
+var COLOR_EMPTY = ["RGB", 0.85, 0.85, 0.85];
+var COLOR_SNAKE = ["RGB", 0, 0, 0];
+var COLOR_HEAD  = ["RGB", 0, 0, 0];
+var COLOR_FOOD  = ["RGB", 0.8, 0.15, 0.15];
+
+function set_controls_visibility(state) {
+	
+	this.getField("B_up").hidden = !state;
+	this.getField("B_down").hidden = !state;
+	this.getField("B_left").hidden = !state;
+	this.getField("B_right").hidden = !state;
+}
+
+function cell_has_snake(x, y) {
+	for (var i = 0; i < snake.length; ++i) {
+		if (snake[i].x == x && snake[i].y == y) {
+			return true;
+		}
+	}
+	return false;
+}
+
+function spawn_food() {
+	var x, y;
+	do {
+		x = rand() % 15;
+		if (x < 0) x += 15;
+		y = rand() % 15;
+		if (y < 0) y += 15;
+	} while (cell_has_snake(x, y));
+	food = { x: x, y: y };
+}
+
+function game_init() {
+	// Gather references to pixel field objects
+	for (var x = 0; x < 15; ++x) {
+		pixel_fields[x] = [];
+		for (var y = 0; y < 15; ++y) {
+			pixel_fields[x][y] = this.getField(`P_${x}_${y}`);
+		}
+	}
+
+	snake = [
+		{ x: 7, y: 7 },
+		{ x: 6, y: 7 },
+		{ x: 5, y: 7 }
+	];
+	dir = { dx: 1, dy: 0 };
+	next_dir = { dx: 1, dy: 0 };
+	score = 0;
+	draw_updated_score();
+	spawn_food();
+
+	// Hide start button, show controls
+	this.getField("B_start").hidden = true;
+	set_controls_visibility(true);
+
+	draw();
+
+	// Start timer
+	interval = setInterval(game_tick, TICK_INTERVAL);
+	started = true;
+}
+
+function set_direction(dx, dy) {
+	// Disallow reversing directly into ourselves
+	if (dx == -dir.dx && dy == -dir.dy) {
+		return;
+	}
+	next_dir = { dx: dx, dy: dy };
+}
+
+function game_over() {
+	app.clearInterval(interval);
+	started = false;
+	app.alert(`Game over! Score: ${score}`);
+	this.getField("B_start").hidden = false;
+	set_controls_visibility(false);
+}
+
+function step() {
+	dir = next_dir;
+	var head = snake[0];
+	var new_head = { x: head.x + dir.dx, y: head.y + dir.dy };
+
+	// wall collision
+	if (new_head.x < 0 || new_head.x >= 15 || new_head.y < 0 || new_head.y >= 15) {
+		game_over();
+		return;
+	}
+
+	// self collision
+	if (cell_has_snake(new_head.x, new_head.y)) {
+		game_over();
+		return;
+	}
+
+	snake.unshift(new_head);
+
+	if (new_head.x == food.x && new_head.y == food.y) {
+		score++;
+		draw_updated_score();
+		spawn_food();
+	} else {
+		snake.pop();
+	}
+}
+
+function draw_updated_score() {
+	this.getField("T_score").value = `Score: ${score}`;
+}
+
+function draw() {
+	for (var x = 0; x < 15; ++x) {
+		for (var y = 0; y < 15; ++y) {
+			pixel_fields[x][15 - 1 - y].fillColor = COLOR_EMPTY;
+		}
+	}
+	for (var i = snake.length - 1; i >= 0; --i) {
+		var seg = snake[i];
+		pixel_fields[seg.x][15 - 1 - seg.y].fillColor = (i == 0) ? COLOR_HEAD : COLOR_SNAKE;
+	}
+	pixel_fields[food.x][15 - 1 - food.y].fillColor = COLOR_FOOD;
+}
+
+function game_tick() {
+	if (!started) return;
+	step();
+	if (started) draw();
+}
+
+// Hide controls to start with
+set_controls_visibility(false);
+
+// Zoom to fit (on FF)
+app.execMenuItem("FitPage");
+
+endstream
+endobj
+
+
+18 0 obj
+<<
+  /JS 43 0 R
+  /S /JavaScript
+>>
+endobj
+
+
+43 0 obj
+<< >>
+stream
+
+
+
+endstream
+endobj
+
+trailer
+<<
+  /Root 1 0 R
+>>
+
+%%EOF
