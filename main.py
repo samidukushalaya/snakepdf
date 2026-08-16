@@ -104,7 +104,7 @@ var COLOR_HEAD  = ["RGB", 0, 0, 0];
 var COLOR_FOOD  = ["RGB", 0.8, 0.15, 0.15];
 
 function set_controls_visibility(state) {
-	this.getField("T_input").hidden = !state;
+	
 	this.getField("B_up").hidden = !state;
 	this.getField("B_down").hidden = !state;
 	this.getField("B_left").hidden = !state;
@@ -168,15 +168,6 @@ function set_direction(dx, dy) {
 		return;
 	}
 	next_dir = { dx: dx, dy: dy };
-}
-
-function handle_input(event) {
-	switch (event.change) {
-		case 'w': set_direction(0, -1); break;
-		case 's': set_direction(0, 1); break;
-		case 'a': set_direction(-1, 0); break;
-		case 'd': set_direction(1, 0); break;
-	}
 }
 
 function game_over() {
@@ -510,8 +501,7 @@ add_button("v", "B_down", GRID_OFF_X + 105, GRID_OFF_Y - 130, 50, 50, "set_direc
 # Start button, centered over the grid
 add_button("Start game", "B_start", grid_center_x - 50, grid_center_y - 50, 100, 100, "game_init();")
 
-# Keyboard input (WASD) + score
-add_text("Type here for keyboard controls (WASD)", "T_input", GRID_OFF_X, GRID_OFF_Y - 220, GRID_WIDTH * PX_SIZE, 50, "handle_input(event);")
+# score
 add_text("Score: 0", "T_score", GRID_OFF_X + GRID_WIDTH * PX_SIZE + 10, GRID_OFF_Y + GRID_HEIGHT * PX_SIZE - 30, 100, 30, "")
 
 filled_pdf = PDF_FILE_TEMPLATE.replace("###FIELDS###", fields_text)
