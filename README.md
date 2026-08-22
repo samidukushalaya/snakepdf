@@ -1,4 +1,4 @@
-# Snake PDF 🐍
+# Snake Game PDF 🐍
 
 A simple Snake game that runs inside a PDF.
 
